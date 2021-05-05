@@ -1,0 +1,73 @@
+body{
+    background-image: url(./images/vhoa0.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+
+h3{
+    padding: 30px;
+    text-align: center;
+}
+
+.prognozaHours{
+    max-width: 220px;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+
+#input{
+    margin-left: 223px;
+    width: 1200px;
+}
+
+
+.card img{
+    height: 40px;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.card-title{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-text{
+    margin-top: -10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.prognozaDays img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.btn {
+    margin-left: 10px;
+}
+
+.forecastBox {
+    margin-top: 10px;
+}
+
+
+.prognozaDays{
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+    margin-right: 10px;
+    width: 1200px;
+}

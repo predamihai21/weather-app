@@ -1,3 +1,2 @@
-# weather-app.github.io.com
-weather api
+simple weather and forecast app using weather api
 https://predamihai21.github.io/
